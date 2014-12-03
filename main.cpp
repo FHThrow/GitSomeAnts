@@ -19,7 +19,7 @@ int main(){
     MainField->createField();
     Creator *MainCreator;
     MainCreator = Creator::getCreator();
-
+    //how does github handle this?
     Item *p[3];
     p[1] = MainCreator->getItem(ANTS);
     p[2] = MainCreator->getItem(ANTHILLS);
