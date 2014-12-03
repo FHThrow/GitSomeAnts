@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1417535944 source:f:\dropbox\code\c++\ants\main.cpp
+	"AntClasses.h"
+
+1417535958 f:\dropbox\code\c++\ants\antclasses.h
+	<iostream>
+	<list>
+	"Field.h"
+	"Area.h"
+	"Item.h"
+	"Ant.h"
+	"Food.h"
+	"Anthill.h"
+	"Creator.h"
+
+1417529634 f:\dropbox\code\c++\ants\include\field.h
+	"Area.h"
+	<iostream>
+
+1417531100 f:\dropbox\code\c++\ants\include\area.h
+	<list>
+	"Item.h"
+
+1417535238 source:f:\dropbox\code\c++\ants\src\area.cpp
+	"Area.h"
+
+1417529634 source:f:\dropbox\code\c++\ants\src\field.cpp
+	"Field.h"
+
+1417528798 f:\dropbox\code\c++\ants\include\item.h
+
+1417528798 f:\dropbox\code\c++\ants\include\ant.h
+	"Item.h"
+
+1417528798 f:\dropbox\code\c++\ants\include\food.h
+	"Item.h"
+
+1417528798 f:\dropbox\code\c++\ants\include\anthill.h
+	"Item.h"
+
+1417529570 source:f:\dropbox\code\c++\ants\src\anthill.cpp
+	"AntHill.h"
+
+1417529570 source:f:\dropbox\code\c++\ants\src\food.cpp
+	"Food.h"
+
+1417525960 source:f:\dropbox\code\c++\ants\src\item.cpp
+	"Item.h"
+
+1417529570 source:f:\dropbox\code\c++\ants\src\ant.cpp
+	"Ant.h"
+
+1417536016 f:\dropbox\code\c++\ants\include\creator.h
+	"Item.h"
+	"Ant.h"
+	"AntHill.h"
+	"Food.h"
+
